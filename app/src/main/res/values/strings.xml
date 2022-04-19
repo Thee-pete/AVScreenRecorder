@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AV Screen Recorder</string>
+
+    <!--Admob Ads Id Setup-->
+
+
+
+
+
+    <!--Top Menu Setup-->
+    <string name="Devloper_ID">Ndumia Inc</string>
+    <string name="empty_text">You have not recorded anything yet. Press the record button to start recording your screen.</string>
+    <string name="privacy_policy_url">https://kenyanteenbs.wordpress.com/2020/09/24/privacy-policy/</string>
+
+
+</resources>
